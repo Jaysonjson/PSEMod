@@ -4,5 +4,6 @@ version = 1
 
 [json]
 version_raw = "https://raw.githubusercontent.com/Jaysonjson/PSEMod/master/versions.json"
+resourcepack_raw = "https://raw.githubusercontent.com/Jaysonjson/PSEMod/master/resourcepack.json"
 [1.13.2]
   description = "DESC"
