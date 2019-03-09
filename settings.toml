@@ -1,4 +1,8 @@
 version = 1
 
+[toml]
+
+[json]
+version_raw = "https://raw.githubusercontent.com/Jaysonjson/PSEMod/master/versions.json"
 [1.13.2]
   description = "DESC"
